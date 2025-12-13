@@ -12,6 +12,8 @@ The basic structure includes standard header and body sections.
 
 The styling rules are within the header section. 
 
-The code was validated using the HTML validator given in the lesson.
+This program displays 4 of the links I visit often. These weblinks are within the body section.
+
+The code was validated using the HTML validator given in the lesson (the W3C HTML Validator)
 
 Some rights reserved — see [LICENSE.txt](LICENSE.txt)
